@@ -1,0 +1,38 @@
+{
+  "name": "ditoolkit",
+  "version": "0.1.0",
+  "description": "Set of classes and helpers for dependency injection in NodeJ",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-coveralls": "^0.1.4",
+    "gulp-istanbul": "^1.0.0",
+    "gulp-mocha": "^2.2.0",
+    "should": "^10.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sielay/ditoolkit.git"
+  },
+  "keywords": [
+    "dependency",
+    "injeciton",
+    "di",
+    "node",
+    "testing",
+    "tdd",
+    "reverse",
+    "of",
+    "control"
+  ],
+  "author": "lukaszsielski@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sielay/ditoolkit/issues"
+  },
+  "homepage": "https://github.com/sielay/ditoolkit#readme"
+}
